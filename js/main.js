@@ -2,7 +2,7 @@ const spesa = ["pane", "verdura", "frutta"];
 
 let i = 0;
 
-while(spesa.length<3){
+while(spesa.length < 3){
     
     i++;
 
